@@ -1,8 +1,21 @@
-**Languages and Tools:**
+<p align="center">
+  <img src="banner.gif" width="680" height="240"/> 
+</p>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+# 📊 Stats:
+<p align="center">
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=toxinsfx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+</p>
 
-**Stats:** 
+<p align="center">  
+![](https://github-readme-streak-stats.herokuapp.com/?user=toxinsfx&theme=radical&hide_border=false)
+</p>
 
-![Rud3p's Github Stats](https://github-readme-stats.vercel.app/api?username=rud3p&show_icons=true&theme=dark)
+<p align="center">
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toxinsfx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+</p>
+
+## 🏆 Trophies
+<p align="center">
+![](https://github-profile-trophy.vercel.app/?username=toxinsfx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</p>
