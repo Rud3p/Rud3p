@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="680" height="240"/>
+  <img src="standard (1).gif" width="680" height="240"/>
 </p>
 
 # 📊 Stats:
