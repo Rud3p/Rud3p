@@ -9,3 +9,7 @@
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rud3p&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <a href="https://discord.com/users/1158765102179291136"><img src="https://lanyard.cnrad.dev/api/1158765102179291136"></a>
+</p>
